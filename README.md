@@ -3,11 +3,11 @@
 <img align="right" alt="coding" width='400' src='https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47l8wjjzwqqgjso47n8hbhrz8z2nr76hlg5nlxc4jr&ep=v1_gifs_search&rid=giphy.gif&ct=g'/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ndistricte&label=Profile%20views&color=0e75b6&style=flat" alt="ndistricte" /> </p>
 
-- 🔭 I’m currently working on a Website **Midbets**
+- 🔭 I’m currently working on my Final Year Project **Enhancing Stock Price Predictions: Integration Machine Learning, Public Sentiment Analysis, and NLP Evaluation**
 
 - 🌱 I’m currently learning **Python, Linux**
 
-- 📫 How to reach me **Discord**
+- 📫 How to reach me **Anatolsatler@icloud.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
